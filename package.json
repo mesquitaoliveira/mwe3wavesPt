@@ -11,6 +11,7 @@
         "babel": "^6.23.0",
         "babel-core": "^6.26.3",
         "express": "^4.16.4",
+        "mweb3-demo-waves": "github:mesquitaoliveira/mwe3wavesPt",
         "react": "^16.5.2",
         "react-dom": "^16.5.2"
     },
